@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Technical Test Wanderer</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="register_success">Register Success</string>
+    <string name="register_failed">Register Failed</string>
+
+    <string name="fullname">%s %s</string>
+</resources>
